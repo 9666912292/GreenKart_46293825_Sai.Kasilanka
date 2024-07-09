@@ -4,7 +4,7 @@ import org.testng.annotations.Test;
 import web_Pages.ScenarioPage_5;
 
 public class ScenarioTest_5 extends driverClass{
-		//@Test
+		@Test
 		public void Scenario_5() throws InterruptedException{
 			ScenarioPage_5 s5 =new ScenarioPage_5(driver);
 			s5.Click_FlightBooking();
