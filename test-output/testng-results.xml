@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="8" total="13" passed="5" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-09T12:34:36 IST" name="Suite" finished-at="2024-01-09T12:36:49 IST" duration-ms="132673">
+    <groups>
+    </groups>
+    <test started-at="2024-01-09T12:34:36 IST" name="Test" finished-at="2024-01-09T12:36:49 IST" duration-ms="132673">
+      <class name="test_Cases.ScenarioTest_5">
+        <test-method signature="Scenario_5()[pri:0, instance:test_Cases.ScenarioTest_5@5c8eee0f]" started-at="2024-01-09T12:35:15 IST" name="Scenario_5" finished-at="2024-01-09T12:36:49 IST" duration-ms="93663" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Scenario_5 -->
+      </class> <!-- test_Cases.ScenarioTest_5 -->
+      <class name="test_Cases.ScenarioTest_3">
+        <test-method signature="Scenario_3(java.lang.String)[pri:0, instance:test_Cases.ScenarioTest_3@52045dbe]" started-at="2024-01-09T12:34:47 IST" name="Scenario_3" data-provider="getData" finished-at="2024-01-09T12:34:52 IST" duration-ms="4496" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Capsicum]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Scenario_3 -->
+      </class> <!-- test_Cases.ScenarioTest_3 -->
+      <class name="test_Cases.ScenarioTest_4">
+        <test-method signature="Scenario_4()[pri:0, instance:test_Cases.ScenarioTest_4@674658f7]" started-at="2024-01-09T12:34:52 IST" name="Scenario_4" finished-at="2024-01-09T12:35:15 IST" duration-ms="23416" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Scenario_4 -->
+      </class> <!-- test_Cases.ScenarioTest_4 -->
+      <class name="test_Cases.ScenarioTest_1">
+        <test-method is-config="true" signature="openbrowser()[pri:0, instance:test_Cases.ScenarioTest_1@4a891c97]" started-at="2024-01-09T12:33:57 IST" name="openbrowser" finished-at="2024-01-09T12:34:36 IST" duration-ms="38928" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openbrowser -->
+        <test-method signature="Scenario_1()[pri:0, instance:test_Cases.ScenarioTest_1@4a891c97]" started-at="2024-01-09T12:34:37 IST" name="Scenario_1" finished-at="2024-01-09T12:34:38 IST" duration-ms="1791" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Scenario_1 -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:test_Cases.ScenarioTest_1@4a891c97]" started-at="2024-01-09T12:36:49 IST" name="closeBrowser" finished-at="2024-01-09T12:36:50 IST" duration-ms="1074" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- test_Cases.ScenarioTest_1 -->
+      <class name="test_Cases.ScenarioTest_2">
+        <test-method signature="Scenario_2()[pri:0, instance:test_Cases.ScenarioTest_2@6cfcd46d]" started-at="2024-01-09T12:34:38 IST" name="Scenario_2" finished-at="2024-01-09T12:34:47 IST" duration-ms="9089" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Scenario_2 -->
+      </class> <!-- test_Cases.ScenarioTest_2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

@@ -1,0 +1,25 @@
+12:34:36,638 DEBUG devpinoyLogger:21 - Url is open
+12:34:37,756 DEBUG devpinoyLogger:26 - Click 10th Item
+12:34:42,734 DEBUG devpinoyLogger:42 - Click Brocolli
+12:34:43,094 DEBUG devpinoyLogger:49 - Click Carrot
+12:34:43,526 DEBUG devpinoyLogger:56 - Click Beetroot
+12:34:48,275 DEBUG devpinoyLogger:41 - Click Tomato
+12:34:48,623 DEBUG devpinoyLogger:48 - Click Beans
+12:34:48,987 DEBUG devpinoyLogger:55 - Click Brinjal
+12:34:50,016 DEBUG devpinoyLogger:104 - Click Search 
+12:34:51,516 DEBUG devpinoyLogger:127 - Increase Capsicum to quantity 3
+12:34:52,101 DEBUG devpinoyLogger:140 - Click cart page
+12:34:53,005 DEBUG devpinoyLogger:38 - Click CheckOut
+12:35:14,994 DEBUG devpinoyLogger:82 - Click Place order
+12:35:15,436 DEBUG devpinoyLogger:89 - Select Country
+12:35:15,655 DEBUG devpinoyLogger:96 - Click CheckBox
+12:35:15,874 DEBUG devpinoyLogger:103 - Click Proceed
+12:35:24,937 DEBUG devpinoyLogger:47 - Click Flight Booking
+12:36:24,774 DEBUG devpinoyLogger:61 - Enter Country
+12:36:25,830 DEBUG devpinoyLogger:75 - Click Departure city
+12:36:29,775 DEBUG devpinoyLogger:84 - Click Arrival city
+12:36:30,318 DEBUG devpinoyLogger:101 - Click Calender for depart date
+12:36:31,386 DEBUG devpinoyLogger:134 - Click Calender for return date
+12:36:32,626 DEBUG devpinoyLogger:159 - Click Passengers
+12:36:49,543 DEBUG devpinoyLogger:211 - Click search
+12:36:50,795 DEBUG devpinoyLogger:29 - driver is closed
